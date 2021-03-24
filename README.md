@@ -6,11 +6,11 @@ When complete, you'll be able to grab random quotes from the command line, like 
 
 > **$** python get-quote.py
 > 
-> Keep it logically awesome
+> Small steps, small steps
 > 
 > **$** python get-quote.py
 > 
-> Speak like a human
+> Practice
 
 ## Start the Tutorial
 
